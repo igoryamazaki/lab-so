@@ -1,0 +1,1 @@
+// desligar ECHO e teste scanf e printf
