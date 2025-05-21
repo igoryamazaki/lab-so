@@ -4,10 +4,6 @@ Este repositório reúne os códigos e exercícios desenvolvidos na disciplina d
 
 As atividades foram feitas utilizando o Ubuntu via WSL (Windows Subsystem for Linux), permitindo simular um ambiente Unix/Linux diretamente no Windows. Cada pasta representa uma aula prática com implementações relacionadas ao conteúdo teórico da disciplina.
 
-O objetivo do repositório é consolidar o aprendizado por meio da prática com linguagens de baixo nível (como C), explorando o comportamento do sistema operacional em situações reais, como manipulação de arquivos, criação de processos, uso de pipes, sinais e memória compartilhada.
-
-Este material serve como referência para revisão, estudo e consulta futura, podendo também ser útil para outros estudantes interessados em compreender melhor o funcionamento interno de sistemas operacionais.
-
 ---
 
 ## 🛠️ Tecnologias Utilizadas
